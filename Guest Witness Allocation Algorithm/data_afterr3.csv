@@ -1,25 +1,29 @@
-Team,Division,R1 Pos,R1 Destination Team,R1 Destination's Opponent,R2 Pos,R2 Destination Team,R2 Destination's Opponent,R3 Pos,R3 Destination Team,R3 Destination's Opponent
-Abry,1,d,Weerasekera,Kelly,p,Pym,Shapiro,p,Matarrese,Samios
-Adler,1,p,Shapiro,Matarrese,d,Rosier,Stebbins,d,Samios,Matarrese
-Bell-Colpack,1,p,Kelly,Weerasekera,d,Tilis,Weerasekera,p,Pym,Suh
-Benjamin,1,p,Tilis,Stebbins,d,Smith,Matarrese,d,Suh,Pym
-Burdette,1,d,Matarrese,Shapiro,p,Weerasekera,Tilis,p,Rosier,Kelly
-Cepeda,1,p,Self,Pym,d,Kelly,Suh,d,Stebbins,Weerasekera
-Faiella,1,p,Rosier,Samios,d,Self,Samios,p,Shapiro,Smith
-Fast,1,d,Suh,Smith,p,Matarrese,Smith,p,Weerasekera,Stebbins
-Felder,1,d,Stebbins,Tilis,p,Suh,Kelly,d,Smith,Shapiro
-Franklin,1,p,Smith,Suh,d,Shapiro,Pym,d,Tilis,Self
-Gossett,1,d,Pym,Self,p,Samios,Self,d,Kelly,Rosier
-Hahn,1,d,Samios,Rosier,p,Stebbins,Rosier,p,Self,Tilis
-Kelly,2,p,Bell-Colpack,Abry,d,Cepeda,Felder,d,Benjamin,Bell-Colpack
-Matarrese,2,d,Burdette,Adler,p,Fast,Benjamin,p,Abry,Adler
-Pym,2,d,Gossett,Cepeda,p,Abry,Franklin,p,Burdette,Gossett
-Rosier,2,p,Faiella,Hahn,d,Adler,Hahn,p,Bell-Colpack,Benjamin
-Samios,2,d,Hahn,Faiella,p,Gossett,Faiella,d,Adler,Abry
-Self,2,p,Cepeda,Gossett,d,Faiella,Gossett,p,Faiella,Felder
-Shapiro,2,p,Adler,Burdette,d,Franklin,Abry,p,Hahn,Franklin
-Smith,2,p,Franklin,Fast,d,Benjamin,Fast,d,Franklin,Hahn
-Stebbins,2,d,Felder,Benjamin,p,Hahn,Adler,d,Cepeda,Fast
-Suh,2,d,Fast,Franklin,p,Felder,Cepeda,d,Gossett,Burdette
-Tilis,2,p,Benjamin,Felder,d,Bell-Colpack,Burdette,d,Felder,Faiella
-Weerasekera,2,d,Abry,Bell-Colpack,p,Burdette,Bell-Colpack,p,Fast,Cepeda
+team,division,r1_pos,r1_dest,r1_destopp,r2_pos,r2_dest,r2_destopp,r3_pos,r3_dest,r3_destopp
+Abigail,1,p,Rosalynn,Edith,d,Margaret,Helen,d,Martha,Helen
+Bess,1,p,Martha,Anna,d,Ellen,Hannah,p,Anna,Nancy
+Dolley,1,d,Anna,Martha,p,Barbara,Eleanor,d,Mamie,Lady Bird
+Elizabeth,1,d,Nancy,Margaret,p,Anna,Rosalynn,p,Louisa,Margaret
+Florence,1,p,Ellen,Barbara,d,Lucretia,Michelle,d,Edith,Ellen
+Grace,1,p,Lucretia,Hannah,d,Eleanor,Barbara,d,Margaret,Louisa
+Ida,1,d,Helen,Louisa,p,Helen,Margaret,p,Barbara,Michelle
+Jackie,1,p,Louisa,Helen,d,Louisa,Nancy,p,Lady Bird,Mamie
+Julia,1,d,Hannah,Lucretia,p,Michelle,Lucretia,p,Helen,Martha
+Lady Bird,1,d,Barbara,Ellen,p,Hannah,Ellen,p,Lucretia,Rosalynn
+Laura,1,p,Eleanor,Michelle,d,Rosalynn,Anna,d,Nancy,Anna
+Mamie,1,d,Edith,Rosalynn,p,Nancy,Louisa,d,Rosalynn,Lucretia
+Mary Todd,1,d,Michelle,Eleanor,p,Edith,Martha,p,Ellen,Edith
+Pat,1,p,Margaret,Nancy,d,Martha,Edith,d,Michelle,Barbara
+Anna,2,d,Elizabeth,Pat,p,Elizabeth,Laura,p,Jackie,Dolley
+Barbara,2,d,Dolley,Bess,p,Dolley,Grace,p,Ida,Pat
+Edith,2,d,Lady Bird,Florence,p,Mary Todd,Pat,d,Florence,Mary Todd
+Eleanor,2,p,Laura,Mary Todd,d,Grace,Dolley,d,Laura,Bess
+Ellen,2,p,Bess,Dolley,d,Bess,Lady Bird,p,Mary Todd,Florence
+Hannah,2,d,Mamie,Abigail,p,Lady Bird,Bess,p,Bess,Laura
+Helen,2,d,Ida,Jackie,p,Ida,Abigail,p,Julia,Abigail
+Louisa,2,p,Jackie,Ida,d,Jackie,Mamie,p,Elizabeth,Grace
+Lucretia,2,p,Abigail,Mamie,d,Florence,Julia,p,Hannah,Eleanor
+Margaret,2,p,Grace,Julia,d,Abigail,Ida,d,Grace,Elizabeth
+Martha,2,p,Pat,Elizabeth,d,Pat,Mary Todd,d,Abigail,Julia
+Michelle,2,d,Mary Todd,Laura,p,Julia,Florence,d,Pat,Ida
+Nancy,2,d,Julia,Grace,p,Mamie,Jackie,d,Dolley,Jackie
+Rosalynn,2,p,Florence,Lady Bird,d,Laura,Elizabeth,d,Eleanor,Hannah
