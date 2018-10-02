@@ -1,0 +1,33 @@
+team,division,r1_pos,r1_dest,r1_destopp,r2_pos,r2_dest,r2_destopp,r3_pos,r3_dest,r3_destopp
+Beckham,1,p,Tucker,Austin,d,Acres,Conroy,d,Nelson,Baldwin
+Benjamin,1,d,Ordway,Blomberg,p,Austin,Pearman,p,Baldwin,Nelson
+Bentz,1,p,Pardue,Baldwin,d,Blomberg,Nelson,d,Pardue,Ordway
+Berry,1,p,Blomberg,Ordway,d,Tucker,Seacrest,p,Acres,Seacrest
+Helms,1,d,Newton,Mitchell,p,Baldwin,Mitchell,p,Newton,Blomberg
+Hill,1,p,Pearman,Seacrest,d,Pearman,Austin,p,Boykin,Mitchell
+Kelley,1,p,King Jr,Conroy,d,Mitchell,Baldwin,d,Seacrest,Acres
+Lee,1,d,Austin,Tucker,p,West,King Jr,p,Tucker,Conroy
+Massey,1,p,Mitchell,Newton,d,Pardue,Newton,d,Mitchell,Boykin
+McClain,1,d,Seacrest,Pearman,p,Seacrest,Tucker,p,Austin,King Jr
+McCollum,1,d,West,Acres,p,Nelson,Blomberg,d,King Jr,Austin
+Moretz,1,d,Nelson,Boykin,p,Conroy,Acres,d,Conroy,Tucker
+Reed,1,d,Baldwin,Pardue,p,Ordway,Boykin,d,Pearman,West
+Riggs,1,d,Conroy,King Jr,p,Newton,Pardue,d,Blomberg,Newton
+Rowland,1,p,Acres,West,d,Boykin,Ordway,p,Ordway,Pardue
+Thompson,1,p,Boykin,Nelson,d,King Jr,West,p,West,Pearman
+Acres,2,p,Rowland,McCollum,d,Beckham,Moretz,p,Thompson,Reed
+Austin,2,d,Moretz,Thompson,p,Benjamin,Hill,p,Helms,Riggs
+Baldwin,2,d,Benjamin,Berry,p,Helms,Kelley,p,Lee,Moretz
+Blomberg,2,p,Bentz,Reed,d,Bentz,McCollum,d,Beckham,Benjamin
+Boykin,2,p,Kelley,Riggs,d,Rowland,Reed,p,Hill,Massey
+Conroy,2,d,Helms,Massey,p,Moretz,Beckham,d,McCollum,McClain
+King Jr,2,p,Massey,Helms,d,Thompson,Lee,d,Riggs,Helms
+Mitchell,2,p,Beckham,Lee,d,Kelley,Helms,d,Massey,Hill
+Nelson,2,d,Riggs,Kelley,p,McCollum,Bentz,d,Moretz,Lee
+Newton,2,d,Lee,Beckham,p,Riggs,Massey,p,Benjamin,Beckham
+Ordway,2,d,Reed,Bentz,p,Reed,Rowland,p,Berry,Kelley
+Pardue,2,p,Berry,Benjamin,d,Massey,Riggs,d,Kelley,Berry
+Pearman,2,p,Hill,McClain,d,Hill,Benjamin,d,Bentz,Rowland
+Seacrest,2,d,McClain,Hill,p,McClain,Berry,d,Reed,Thompson
+Tucker,2,p,Thompson,Moretz,d,Berry,McClain,p,McClain,McCollum
+West,2,d,McCollum,Rowland,p,Lee,Thompson,p,Rowland,Bentz
