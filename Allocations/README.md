@@ -16,3 +16,5 @@ If you've already run the program once, just run jupyter notebook from a termina
 ```terminal
 python3 -m pip uninstall jupyter;pip uninstall numpy;pip uninstall pandas;pip uninstall munkres
 ```
+
+As a backup, the `munkres.whl` file is available for installation.
