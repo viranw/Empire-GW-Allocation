@@ -1,6 +1,9 @@
+<div align="center">
 <img width=200 src="empire.png">
 
 # 👩‍⚖️ Empire 2019 Guest Witness Allocation Algorithm
+
+</div>
 
 ## ⬇️ Installation Instructions:
 1. Install Python 3 (https://www.python.org/downloads/)
