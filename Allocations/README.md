@@ -1,3 +1,5 @@
+![inline 50%](empire.png)
+
 # 👩‍⚖️ Empire 2019 Guest Witness Allocation Algorithm
 
 ## ⬇️ Installation Instructions:
