@@ -1,4 +1,4 @@
-![inline 0.5%](empire.png)
+<img width=200 src="empire.png">
 
 # 👩‍⚖️ Empire 2019 Guest Witness Allocation Algorithm
 
